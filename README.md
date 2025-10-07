@@ -1,4 +1,4 @@
-# ADM Assignment 3: Trajectory Analysis with Deep Learning
+#  Trajectory Analysis with Deep Learning
 
 This project implements driver classification using vehicle trajectory data through Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) models.
 
