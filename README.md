@@ -154,12 +154,12 @@ This project is part of an academic assignment and is intended for educational p
 ## Author
 
 **Naman Tenguria**
-- Academic Project: ADM Assignment 3
+
 
 ## Acknowledgments
 
 - Course: Advanced Data Mining (ADM)
-- University: [Your University Name]
+- University: State University of New York at Binghamton
 - Semester: 3
 
 ---
